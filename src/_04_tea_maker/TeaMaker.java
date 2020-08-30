@@ -21,6 +21,7 @@ class TeaBag {
 
 	TeaBag(String flavor) {
 		this.flavor = flavor;
+		
 	}
 
 	String getFlavor() {
