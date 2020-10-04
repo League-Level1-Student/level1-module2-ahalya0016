@@ -27,11 +27,12 @@ This is because there is no Minion class in the package.
 
  3.
   Next, create a constructor, and getters and setters for all the member variables of the Minion class. 
-  If they’re done right, all these tests will pass.
+  If they are done right, all these tests will pass.
   
   To check, run this MinionTest class and the JUnit tab should show a GREEN bar.
     
  */
+
 
 public class MinionTest {
 
